@@ -101,7 +101,7 @@ body{
 }
 /* Landing Section Start */
 .landing{
-    background-image: url(https://raw.githubusercontent.com/saeed-m-elsayed/first-project/main/img/mountain.jpeg);
+    background-image: url("https://raw.githubusercontent.com/saeed-m-elsayed/first-project/main/img/mountain.jpeg");
     background-size: cover;
     height: calc(100vh - 44px);
     display: flex;
